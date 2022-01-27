@@ -1,2 +1,2 @@
 # dotnet_project
-Projeto para aprendizado e fixação de OPP em C#
+Exercise in OPP using DotNet 6 and C#
