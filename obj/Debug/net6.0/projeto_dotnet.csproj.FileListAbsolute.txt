@@ -1,0 +1,15 @@
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.csproj.AssemblyReference.cache
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.AssemblyInfoInputs.cache
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.AssemblyInfo.cs
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/projeto_dotnet
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/projeto_dotnet.deps.json
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/projeto_dotnet.runtimeconfig.json
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/projeto_dotnet.dll
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/ref/projeto_dotnet.dll
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/bin/Debug/net6.0/projeto_dotnet.pdb
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.dll
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/ref/projeto_dotnet.dll
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.pdb
+/home/rodrigo/Documents/Development/courses/projeto_dotnet/obj/Debug/net6.0/projeto_dotnet.genruntimeconfig.cache
